@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags:
+Tags: [[programming]]
 
 # What is JQuery?
 - Introduced in the year 2006 by John Resig

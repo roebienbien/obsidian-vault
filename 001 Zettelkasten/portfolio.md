@@ -4,7 +4,7 @@ Status: #idea
 
 Tags: [[programming]]
 
-# portfolio
+# [portfolio](https://www.roebienbien.vercel.app) 
 
 
 # To do
@@ -16,6 +16,13 @@ Tags: [[programming]]
 2024-02-02 23:59
 - [x] feat: create form validation on feedback 
 
+
+## Projects
+
+ - [[rcc | Roe's Cancer Clinic]] 
+	 - [view site](https://rcc-roebienbien.vercel.app)
+ - [[akyat | Akyat]] 
+	 - [view site](https://akyat-roebienbien.vercel.app)
 
 
 

@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "21c341b0d7f62d1b",
+        "id": "dd5def7e528f87be",
         "type": "tabs",
         "children": [
           {
-            "id": "2052b69bf62440f2",
+            "id": "7556db84fa255750",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Daily Notes/2024/02-february/Apr 20, 2024.md",
-                "mode": "source",
+                "file": "001 Zettelkasten/malewicz.md",
+                "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "malewicz"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Daily Notes/2024/02-february/Apr 20, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,10 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Daily Notes/2024/02-february/Apr 20, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -116,7 +127,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -124,9 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "000 Daily Notes/2024/02-february/Apr 20, 2024.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ],
@@ -147,43 +160,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2052b69bf62440f2",
+  "active": "7556db84fa255750",
   "lastOpenFiles": [
-    "000 Daily Notes/2024/02-february/Apr 20, 2024.md",
-    "001 Zettelkasten/paradoxical-intention.md",
-    "001 Zettelkasten/locality-of-behaviour.md",
+    "004 Assets/Screenshot_4.png",
+    "004 Assets",
+    "001 Zettelkasten/malewicz.md",
+    "000 Daily Notes/2025/01-january/Feb 09, 2025.md",
+    "001 Zettelkasten/rcc.md",
+    "001 Zettelkasten/portfolio.md",
+    "000 Daily Notes/2025/00-goal.md",
+    "000 Daily Notes/2025/01-january/Feb 05, 2025.md",
+    "001 Zettelkasten/www.roebienbien.vercel.com.md",
+    "001 Zettelkasten/git.md",
+    "001 Zettelkasten/sass.md",
+    "000 Daily Notes/2025/Untitled 1",
+    "001 Zettelkasten/Untitled 4.md",
     "001 Zettelkasten/Untitled 3.md",
-    "000 Daily Notes/2024/02-february/Apr 09, 2024.md",
-    "001 Zettelkasten/sapatosan.md",
-    "000 Daily Notes/2024/02-february/Mar 29, 2024.md",
-    "001 Zettelkasten/bubble-sort.md",
-    "001 Zettelkasten/async and await.md",
-    "001 Zettelkasten/asynchronous.md",
-    "001 Zettelkasten/binary-search.md",
-    "001 Zettelkasten/data-structures-and-algorithm.md",
-    "001 Zettelkasten/(binary-search).md",
-    "001 Zettelkasten/Untitled 2.md",
-    "000 Daily Notes/2024/02-february/Feb 27, 2024.md",
-    "001 Zettelkasten/Untitled 1.md",
-    "000 Daily Notes/2024/02-february/Feb 25, 2024.md",
-    "001 Zettelkasten/react-questions/100-react-questions.md",
-    "000 Daily Notes/2024/02-february/Feb 02, 2024.md",
-    "000 Daily Notes/2024/02-february/Feb 09, 2024.md",
+    "000 Daily Notes/2025",
+    "000 Daily Notes/2025/01-january",
+    "000 Daily Notes/2024/02-february/Feb 04, 2025.md",
+    "001 Zettelkasten/useContext.md",
+    "001 Zettelkasten/react-hooks.md",
+    "000 Daily Notes/2024/02-february/Oct 21, 2024.md",
+    "003 Templates/Core Zettel Idea.md",
+    "001 Zettelkasten/react-router.md",
+    "000 Daily Notes/2024/02-february/Oct 16, 2024.md",
+    "000 Daily Notes/2024/02-february/Oct 05, 2024.md",
+    "001 Zettelkasten/obsidian-tutorial/extraction.md",
+    "001 Zettelkasten/jwt.md",
+    "001 Zettelkasten/unit-testing.md",
+    "001 Zettelkasten/JQuery.md",
+    "001 Zettelkasten/ECDSA.md",
+    "001 Zettelkasten/RSA.md",
+    "000 Daily Notes/2024/09-september",
     "000 Daily Notes/2024/02-february",
-    "Untitled",
     "Untitled 3",
     "Untitled 2",
-    "Untitled 1",
-    "000 Daily Notes/2024/02-february/Feb 06, 2024.md",
-    "001 Zettelkasten/portfolio.md",
-    "000 Daily Notes/2024/01-january/Jan 31, 2024.md",
-    "000 Daily Notes/2024/01-january/Jan 30, 2024.md",
-    "000 Daily Notes/2024/01-january/Jan 29, 2024.md",
-    "001 Zettelkasten/akyat.md",
     "000 Daily Notes/2024/01-january",
-    "000 Daily Notes/2024",
-    "000 Daily Notes/2023",
-    "async",
-    "000 Daily Notes/2023/12-December"
+    "000 Daily Notes/2024"
   ]
 }
